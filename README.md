@@ -1,1 +1,1 @@
-Deployed Link https://ecsnits.in/
+Deployed Link https://ecsnit.netlify.app/
